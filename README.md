@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Dev Joshi
 
 💻 Learning Python, Data Structures & Algorithms (DSA), and Electronics.
